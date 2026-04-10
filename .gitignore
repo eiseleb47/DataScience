@@ -1,4 +1,7 @@
 .venv
 *.png
 *.jpg
+*.pdf
+*.zip
+*.tar
 
