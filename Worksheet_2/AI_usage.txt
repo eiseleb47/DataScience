@@ -1,0 +1,8 @@
+Helene Pani:
+
+AI (ChatGPT) was used in processing this exercise. The main use in tasks 1 to 4 was to fix code that did not work properly and asking the AI if obtained results and the interpretation thereof was plausible and reasonable. This helped to understand what points had still problems in either implementations or understanding.
+
+Benjamin Eisele:
+
+Claude code was used to create nicer looking plots.
+Additionally it was used to look up documentation when something was unclear.
