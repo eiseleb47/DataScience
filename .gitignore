@@ -7,3 +7,6 @@
 *.csv
 Data_Science/
 .vscode
+*.npy
+*.h5
+.python-version
